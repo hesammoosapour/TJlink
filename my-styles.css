@@ -1,0 +1,21 @@
+@media  only screen and ( min-width: 388px) and (max-width : 506px){
+    #username {
+        max-width: 90px;
+    }
+}
+@media only screen and (min-width: 1066px)  {
+    #member_btn {
+        margin-left: 156%;
+    }
+}
+@font-face {
+    font-family: iransans;
+    src: url('FontsFree-Net-ir_sans.ttf');
+}
+h2,h4,h5,p {
+    font-family: iransans !important;
+}
+
+._2nd ._3rd ._4th ._5th ._6th ._7th {
+    direction: rtl;
+}
